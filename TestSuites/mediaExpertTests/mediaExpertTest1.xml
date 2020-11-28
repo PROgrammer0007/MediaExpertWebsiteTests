@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Package tests mediaExpertTest1 E2E">
+
+    <parameter name="browserName" value="chrome"></parameter>
+    <parameter name="env" value="https://www.mediaexpert.pl/"></parameter>
+    <test name="Test E2E 1">
+        <classes>
+            <class name="framework.selenium.mediaExpert.mediaExpertTest1">
+
+                <parameter name="ITEM" value="Telewizor"></parameter>
+                <methods>
+                    <include name="mediaExpertTest1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
