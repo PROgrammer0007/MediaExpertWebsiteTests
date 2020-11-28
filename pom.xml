@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <suiteXmlFile>TestSuites/ShopifyTests/ShopifyTests8.xml</suiteXmlFile>
+        <suiteXmlFile>TestSuites/MediaExpert/MediaExpertTests.xml</suiteXmlFile>
         <browserName>Chrome</browserName>
     </properties>
 
