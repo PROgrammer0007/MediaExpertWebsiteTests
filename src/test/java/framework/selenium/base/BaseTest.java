@@ -19,7 +19,7 @@ public class BaseTest {
 
     @AfterMethod
     public void tearDown() throws InterruptedException {
-        Thread.sleep(5000);
-        DriverManager.getDriver().quit();
+//        Thread.sleep(5000);
+//        DriverManager.getDriver().quit();
     }
 }

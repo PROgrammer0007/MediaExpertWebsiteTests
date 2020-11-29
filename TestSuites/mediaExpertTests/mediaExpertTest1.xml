@@ -9,7 +9,8 @@
         <classes>
             <class name="framework.selenium.mediaExpert.mediaExpertTest1">
 
-                <parameter name="ITEM" value="Telewizor"></parameter>
+                <parameter name="Item" value="Telewizor"></parameter>
+                <parameter name="nameTown" value="Gostynin"></parameter>
                 <methods>
                     <include name="mediaExpertTest1"/>
                 </methods>
