@@ -23,19 +23,12 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:feature" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f3608e-88d2-4845-9172-98ecf9a9b8cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestSuites/mediaExpertTests/mediaExpertTest1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestSuites/mediaExpertTests/mediaExpertTest1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/framework/selenium/pages/mediaExpert/ItemPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/framework/selenium/pages/mediaExpert/ItemPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/framework/selenium/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/framework/selenium/base/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/framework/selenium/mediaExpert/mediaExpertTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/framework/selenium/mediaExpert/mediaExpertTest1.java" afterDir="false" />
-    </list>
+    <list default="true" id="b0f3608e-88d2-4845-9172-98ecf9a9b8cb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="work" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +72,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/framework/selenium/mediaExpert" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestSuites/mediaExpertTests" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -87,15 +80,15 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_Selenium\2020.11.25_MediaExpert\src\test\resources\db" />
+      <recent name="C:\_Selenium\2020.11.25_MediaExpert\src\test\resources" />
+      <recent name="C:\_Selenium\2020.11.25_MediaExpert\src\main\resources\dataFromExcel" />
+      <recent name="C:\_Selenium\2020.11.25_CoinPaprica" />
+      <recent name="C:\_Selenium\2020.11.06_Projekt_B2B\src\main\resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="framework.selenium.base" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\_Selenium\2020.11.25_MediaExpert\src\test\java\framework\selenium\mediaExpert" />
-      <recent name="C:\_Selenium\2020.11.25_MediaExpert\TestSuites\mediaExpertTests" />
-      <recent name="C:\_Selenium\2020.11.25_CoinPaprica\TestSuites\CoinPapirkaTests" />
-      <recent name="C:\_Selenium\2020.11.06_Projekt_B2B\TestSuites\ShopifyTests" />
-      <recent name="C:\_Selenium\2020.11.06_Projekt_B2B\TestSuites\eBayTests" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="framework.selenium.mediaExpert" />
@@ -104,12 +97,12 @@
       <recent name="framework.selenium.pages.coinPapirka" />
       <recent name="framework.selenium.shopify" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\_Selenium\2020.11.25_MediaExpert\src\test\resources\db" />
-      <recent name="C:\_Selenium\2020.11.25_MediaExpert\src\test\resources" />
-      <recent name="C:\_Selenium\2020.11.25_MediaExpert\src\main\resources\dataFromExcel" />
-      <recent name="C:\_Selenium\2020.11.25_CoinPaprica" />
-      <recent name="C:\_Selenium\2020.11.06_Projekt_B2B\src\main\resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_Selenium\2020.11.25_MediaExpert\TestSuites\mediaExpertTests" />
+      <recent name="C:\_Selenium\2020.11.25_MediaExpert\src\test\java\framework\selenium\mediaExpert" />
+      <recent name="C:\_Selenium\2020.11.25_CoinPaprica\TestSuites\CoinPapirkaTests" />
+      <recent name="C:\_Selenium\2020.11.06_Projekt_B2B\TestSuites\ShopifyTests" />
+      <recent name="C:\_Selenium\2020.11.06_Projekt_B2B\TestSuites\eBayTests" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.C:/_Selenium/2020.11.25_MediaExpert/TestSuites/mediaExpertTests/mediaExpertTest1.xml">
@@ -142,26 +135,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/_Selenium/2020.11.25_CoinPaprica/TestSuites/CoinPapirkaTests/CoinPapirakaTest3.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="2020.11.25_CoinPaprica" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestSuites/CoinPapirkaTests/CoinPapirakaTest3.xml" />
-      <option name="MAIN_CLASS_NAME" value="" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -221,6 +194,26 @@
       <module name="2020.11.25_MediaExpert" />
       <useClassPathOnly />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/TestSuites/mediaExpertTests/mediaExpertTest2.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/_Selenium/2020.11.25_MediaExpert/TestSuites/mediaExpertTests/mediaExpertTest3.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="2020.11.25_MediaExpert" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestSuites/mediaExpertTests/mediaExpertTest3.xml" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
@@ -315,19 +308,19 @@
       <item itemvalue="TestNG.C:/_Selenium/2020.11.06_Projekt_B2B/TestSuites/ShopifyTests/ShopifyTests.xml" />
       <item itemvalue="TestNG.C:/_Selenium/2020.11.06_Projekt_B2B/TestSuites/eBayTests/eBayTests.xml" />
       <item itemvalue="TestNG.ShopifyTest.shopifyFirstTest2" />
-      <item itemvalue="TestNG.C:/_Selenium/2020.11.25_CoinPaprica/TestSuites/CoinPapirkaTests/CoinPapirakaTest3.xml" />
       <item itemvalue="TestNG.C:/_Selenium/2020.11.25_CoinPaprica/TestSuites/CoinPapirkaTests/CoinPapirakaTest4.xml" />
       <item itemvalue="TestNG.C:/_Selenium/2020.11.25_MediaExpert/TestSuites/mediaExpertTests/mediaExpertTest1.xml" />
       <item itemvalue="TestNG.C:/_Selenium/2020.11.25_MediaExpert/TestSuites/mediaExpertTests/mediaExpertTest2.xml" />
       <item itemvalue="TestNG.mediaExpertTest1" />
+      <item itemvalue="TestNG.C:/_Selenium/2020.11.25_MediaExpert/TestSuites/mediaExpertTests/mediaExpertTest3.xml" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/_Selenium/2020.11.25_MediaExpert/TestSuites/mediaExpertTests/mediaExpertTest1.xml" />
+        <item itemvalue="TestNG.C:/_Selenium/2020.11.25_MediaExpert/TestSuites/mediaExpertTests/mediaExpertTest3.xml" />
         <item itemvalue="TestNG.mediaExpertTest1" />
         <item itemvalue="TestNG.C:/_Selenium/2020.11.25_MediaExpert/TestSuites/mediaExpertTests/mediaExpertTest2.xml" />
         <item itemvalue="TestNG.C:/_Selenium/2020.11.25_CoinPaprica/TestSuites/CoinPapirkaTests/CoinPapirakaTest4.xml" />
-        <item itemvalue="TestNG.C:/_Selenium/2020.11.25_CoinPaprica/TestSuites/CoinPapirkaTests/CoinPapirakaTest3.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +459,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606586666451</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Development mediaExpertTest1">
+      <created>1606673900225</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1606673900225</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add auto screenshots to fail tests">
+      <created>1607021489579</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607021489579</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add auto screenshots to fail tests (modification SeleniumHelper.class)">
+      <created>1607021647389</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1607021647389</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -496,7 +510,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="feature" />
                       </list>
                     </value>
                   </entry>
@@ -559,7 +573,10 @@
     <MESSAGE value="dwa nowe testy" />
     <MESSAGE value="First commit" />
     <MESSAGE value="New test for data from excel .xls" />
-    <option name="LAST_COMMIT_MESSAGE" value="New test for data from excel .xls" />
+    <MESSAGE value="Development mediaExpertTest1" />
+    <MESSAGE value="Add auto screenshots to fail tests" />
+    <MESSAGE value="Add auto screenshots to fail tests (modification SeleniumHelper.class)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add auto screenshots to fail tests (modification SeleniumHelper.class)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="711" y="403" key="#Notifications" timestamp="1605821277172">
@@ -619,30 +636,30 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="717" y="479" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.1920.1160/-1920.0.1920.1200@0.0.1920.1160" timestamp="1605822560980" />
-    <state width="1875" height="352" key="GridCell.Tab.0.bottom" timestamp="1606673360007">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1875" height="352" key="GridCell.Tab.0.bottom" timestamp="1607021543272">
+      <screen x="-1920" y="0" width="1920" height="1200" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.0.1920.1200@-1920.0.1920.1200" timestamp="1606665841900" />
-    <state width="1875" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.0.1920.1200@0.0.1920.1160" timestamp="1606673360007" />
-    <state width="1875" height="364" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1606668655033" />
-    <state width="1875" height="352" key="GridCell.Tab.0.center" timestamp="1606673360006">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1875" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.0.1920.1200@-1920.0.1920.1200" timestamp="1607021543272" />
+    <state width="1875" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.0.1920.1200@0.0.1920.1160" timestamp="1606673928099" />
+    <state width="1875" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1606674383141" />
+    <state width="1875" height="352" key="GridCell.Tab.0.center" timestamp="1607021543272">
+      <screen x="-1920" y="0" width="1920" height="1200" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.0.1920.1200@-1920.0.1920.1200" timestamp="1606665841899" />
-    <state width="1875" height="352" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.0.1920.1200@0.0.1920.1160" timestamp="1606673360006" />
-    <state width="1875" height="364" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1606668655032" />
-    <state width="1875" height="352" key="GridCell.Tab.0.left" timestamp="1606673360006">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1875" height="352" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.0.1920.1200@-1920.0.1920.1200" timestamp="1607021543272" />
+    <state width="1875" height="352" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.0.1920.1200@0.0.1920.1160" timestamp="1606673928099" />
+    <state width="1875" height="352" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1606674383141" />
+    <state width="1875" height="352" key="GridCell.Tab.0.left" timestamp="1607021543272">
+      <screen x="-1920" y="0" width="1920" height="1200" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.0.1920.1200@-1920.0.1920.1200" timestamp="1606665841899" />
-    <state width="1875" height="352" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.0.1920.1200@0.0.1920.1160" timestamp="1606673360006" />
-    <state width="1875" height="364" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1606668655032" />
-    <state width="1875" height="352" key="GridCell.Tab.0.right" timestamp="1606673360006">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1875" height="352" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.0.1920.1200@-1920.0.1920.1200" timestamp="1607021543272" />
+    <state width="1875" height="352" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.0.1920.1200@0.0.1920.1160" timestamp="1606673928099" />
+    <state width="1875" height="352" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1606674383141" />
+    <state width="1875" height="352" key="GridCell.Tab.0.right" timestamp="1607021543272">
+      <screen x="-1920" y="0" width="1920" height="1200" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.0.1920.1200@-1920.0.1920.1200" timestamp="1606665841899" />
-    <state width="1875" height="352" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.0.1920.1200@0.0.1920.1160" timestamp="1606673360006" />
-    <state width="1875" height="364" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1606668655032" />
+    <state width="1875" height="352" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.0.1920.1200@-1920.0.1920.1200" timestamp="1607021543272" />
+    <state width="1875" height="352" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.0.1920.1200@0.0.1920.1160" timestamp="1606673928099" />
+    <state width="1875" height="352" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1606674383141" />
     <state width="1875" height="395" key="GridCell.Tab.1.bottom" timestamp="1606326630319">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -696,10 +713,11 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="651" y="337" key="Vcs.Multiple.Commit.Info.Dialog.Key/0.0.1920.1160/-1920.0.1920.1200@0.0.1920.1160" timestamp="1605791868794" />
-    <state x="551" y="312" key="Vcs.Push.Dialog.v2" timestamp="1606586796430">
+    <state x="551" y="312" key="Vcs.Push.Dialog.v2" timestamp="1606673984597">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="551" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1160/-1920.0.1920.1200@0.0.1920.1160" timestamp="1606586796430" />
+    <state x="551" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606673984597" />
     <state x="650" y="100" width="799" height="810" key="VcsDiffUtil.ChangesDialog" timestamp="1606326535210">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>

@@ -1,12 +1,15 @@
 package framework.selenium.mediaExpert;
 
 import framework.selenium.base.BaseTest;
+import framework.selenium.base.helper.TestListener;
 import framework.selenium.pages.mediaExpert.HomePage;
 import framework.selenium.pages.mediaExpert.ItemPage;
 import org.testng.Reporter;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
+@Listeners(TestListener.class)
 public class mediaExpertTest1 extends BaseTest {
 
     // Test for data from file .xlm
