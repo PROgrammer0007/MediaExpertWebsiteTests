@@ -12,6 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <suiteXmlFile>TestSuites/MediaExpert/MediaExpertTests.xml</suiteXmlFile>
         <browserName>Chrome</browserName>
+        <slf4j.version>1.7.25</slf4j.version>
     </properties>
 
     <build>
@@ -70,6 +71,17 @@
             <groupId>com.relevantcodes</groupId>
             <artifactId>extentreports</artifactId>
             <version>2.41.2</version>
+        </dependency>
+        <!-- logging -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>${slf4j.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-simple</artifactId>
+            <version>${slf4j.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.data</groupId>

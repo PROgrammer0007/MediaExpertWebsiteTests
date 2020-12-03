@@ -3,6 +3,8 @@ package framework.selenium.mediaExpert;
 import framework.selenium.base.BaseTest;
 import framework.selenium.base.helper.ExcelReader;
 import framework.selenium.pages.mediaExpert.HomePage;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.testng.Reporter;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
@@ -13,17 +15,19 @@ import java.io.IOException;
 
 public class mediaExpertTest2 extends BaseTest {
 
+    private final Logger logger = LoggerFactory.getLogger(mediaExpertTest2.class);
+
     // Test for data from excel
     @Test(dataProvider = "getData")
     public void mediaExpertTest2(String item) {
 
-        Reporter.log("Start test mediaExpertTest1");
+        logger.info("Start test mediaExpertTest1");
         HomePage homepage = new HomePage();
-        Reporter.log("Disable cookie");
+        logger.info("Disable cookie");
         homepage.clickCloseCookieLable();
-        Reporter.log("Search: " + item);
+        logger.info("Search: " + item);
         homepage.searchItem(item);
-        Reporter.log("Opening website " + item);
+        logger.info("Opening website " + item);
         homepage.clickSearchButton();
         Reporter.log("Adding to cart " + item);
     }
